@@ -45,7 +45,12 @@ To use this application a user needs to start the server on local host then use 
 
 ## Badges
 
-![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/djpdim/dimos-e-shop?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/djpdim/dimos-e-shop?style=flat&logo=appveyor)
+![Badge for GitHub repo count of languages](https://img.shields.io/github/languages/count/djpdim/dimos-e-shop?style=flat&logo=appveyor)
+![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/djpdim/dimos-e-shop?style=flat&logo=appveyor)
+![Badge for GitHub last commit](https://img.shields.io/github/last-commit/djpdim/dimos-e-shop?style=flat&logo=appveyor)
+![Badge for GitHub Code Size](https://img.shields.io/github/languages/code-size/djpdim/dimos-e-shop?style=flat&logo=appveyor)
+![Badge for GitHub Repo Size](https://img.shields.io/github/repo-size/djpdim/dimos-e-shop?style=flat&logo=appveyor)
+![Badge for GitHub Total Lines](https://img.shields.io/tokei/lines/github/djpdim/dimos-e-shop?style=flat&logo=appveyor)
 
 Check out the badges hosted by [shields.io](https://shields.io/).
 
@@ -59,3 +64,5 @@ For any questions, please contact me to the informations below:
 -   Email: [dimospagkas@yahoo.gr](mailto:dimospagkas@yahoo.gr)
 
 [Top](#description)
+
+<img src="https://img.shields.io/github/followers/djpdim?style=social" alt="Followers" />
