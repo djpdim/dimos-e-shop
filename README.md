@@ -56,6 +56,8 @@ Check out the badges hosted by [shields.io](https://shields.io/).
 
 ## Features
 
+<img src="https://img.shields.io/github/followers/djpdim?style=social" alt="Followers" />
+
 ## Questions
 
 For any questions, please contact me to the informations below:
@@ -64,5 +66,3 @@ For any questions, please contact me to the informations below:
 -   Email: [dimospagkas@yahoo.gr](mailto:dimospagkas@yahoo.gr)
 
 [Top](#description)
-
-<img src="https://img.shields.io/github/followers/djpdim?style=social" alt="Followers" />
