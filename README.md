@@ -6,9 +6,9 @@
 
 ## Link to the app
 
-Link to the github app:[dimos-e-shop](https://github.com/djpdim/dimos-e-shop)
+Link to the github app: [dimos-e-shop](https://github.com/djpdim/dimos-e-shop)
 
-Link to the github page:[dimos-e-shop](https://djpdim.github.io/dimos-e-shop/)
+Link to the github page: [dimos-e-shop](https://djpdim.github.io/dimos-e-shop/)
 
 Demo: [dimos-e-shop](https://drive.google.com/file/d/18SftcHfi9jwAxJrXgrEJH99KShqPeXXS/view)
 
